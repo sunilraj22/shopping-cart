@@ -52,7 +52,6 @@ int main()
     char c;
     cart Crt;
     
-    cout<<"Shopping Cart by Jonathan"<<endl;
 
     while(true){
         cout<<"choose option: (a) Add item(type a)        (b) View cart(type b)        (c) Checkout(type c)"<<endl<<endl;
